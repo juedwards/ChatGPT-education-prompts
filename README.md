@@ -12,7 +12,7 @@ In this repository, you will find a variety of prompts that can be used with Bin
 
 **[View on GitHub](https://github.com/juedwards/ChatGPT-education-prompts/)**
 
-**Install Bing as a desktop [App](https://www.techy.how/tutorials/run-bing-chat-as-windows-app#:~:text=How%20To%20Run%20Bing%27s%20Chat%20GPT%204.0%20As,login.%20...%203%20Uninstall%20Bing%20Chat%20App%20)
+**Install Bing as a desktop [App](https://www.techy.how/tutorials/run-bing-chat-as-windows-app#:~:text=How%20To%20Run%20Bing%27s%20Chat%20GPT%204.0%20As,login.%20...%203%20Uninstall%20Bing%20Chat%20App%20)**
 
 **Download ChatGPT Desktop App**: **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)**
 
