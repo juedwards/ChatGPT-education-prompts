@@ -1,2 +1,32 @@
-# ChatGPT-education-prompts
-A repository of ChatGPT prompts for educators
+<p align="center"><h1>ChatGPT Prompts for Educators</h1></p>
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Welcome to the "ChatGPT Prompts for Educators" repository! This is a collection of prompt examples for educators to be used with the ChatGPT model.
+
+The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+
+In this repository, you will find a variety of prompts that can be used with ChatGPT for education purposes. I encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+
+**[View on GitHub](https://github.com/juedwards/ChatGPT-education-prompts/)**
+
+
+**Download ChatGPT Desktop App**: **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)**
+
+> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
+
+### Using ChatGPT Desktop App
+
+The _unofficial_ ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands.
+
+> **Desktop App is an unofficial [open source project by @lencx](https://github.com/lencx/ChatGPT). It's a simple wrapper for ChatGPT web interface with powerful extras.**
+
+<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
+
+---
+
+# Prompts
+
+## Act as a Maths Tutor for GCSE
+
+>
