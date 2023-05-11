@@ -2,7 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Welcome to the "Bing / ChatGPT Prompts for Educators" repository! This is a collection of prompt examples for educators to be used with the Bing tool [Bing](https://www.bing.com/) or ChatGPT model.
+Welcome to the "Bing / ChatGPT Prompts for Educators" repository! This is a collection of prompt examples for educators to be used with the Bing tool or ChatGPT model.
+
+[Bing](https://bing.com) Bing uses ChatGPT, an AI model created by Microsoft that combines the Bing index, ranking, and answers search results with OpenAI's GPT models. This allows ChatGPT to have fresher, almost real-time content and data to use for its training models. The technology works across Bing in areas such as query interpretation, Bing's index, and Bing ranking. When a user asks a question on Bing, the chat function taps into a more powerful version of OpenAI's chatbot technology. With ChatGPT, users can ask the AI-powered chatbot a question and it answers directly, while also showing search results at the same time.
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
