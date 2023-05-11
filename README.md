@@ -1,15 +1,16 @@
-<p align="center"><h1>ChatGPT Prompts for Educators</h1></p>
+<p align="center"><h1>BING / ChatGPT Prompts for Educators</h1></p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Welcome to the "ChatGPT Prompts for Educators" repository! This is a collection of prompt examples for educators to be used with the ChatGPT model.
+Welcome to the "New Bing / ChatGPT Prompts for Educators" repository! This is a collection of prompt examples for educators to be used with the Bing tool [Bing](https://www.bing.com/) or ChatGPT model.
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT for education purposes. I encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+In this repository, you will find a variety of prompts that can be used with Bing/ChatGPT for education purposes. I encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
 
 **[View on GitHub](https://github.com/juedwards/ChatGPT-education-prompts/)**
 
+**Install Bing as a desktop [App](https://www.techy.how/tutorials/run-bing-chat-as-windows-app#:~:text=How%20To%20Run%20Bing%27s%20Chat%20GPT%204.0%20As,login.%20...%203%20Uninstall%20Bing%20Chat%20App%20)
 
 **Download ChatGPT Desktop App**: **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)**
 
